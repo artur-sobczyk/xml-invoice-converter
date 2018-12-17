@@ -1,0 +1,23 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<h1>Proszę wgrać plik do konwersji:</h1>
+<div>
+    <form method="POST" enctype="multipart/form-data" action="/upload">
+        <table>
+            <tr>
+                <td>File to upload:</td>
+                <td><input type="file" name="file"/></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" value="Wgraj na serwer"/></td>
+            </tr>
+        </table>
+    </form>
+
+    <a th:if="${session.file}" href="/file">Pobież ostatnio skonwertowany plik</a>
+    <p th:if="${session.error}" th:text="${session.error}" style="color:red;">error </p>
+</div>
+
+</body>
+</html>

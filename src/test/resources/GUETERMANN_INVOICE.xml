@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<Invoice>
+    <SupplierName>G�termann GmbH</SupplierName>
+    <TotalAmountInclVAT>722.73</TotalAmountInclVAT>
+    <RoundingAmount>0</RoundingAmount>
+    <InvoiceNumber>9120380810</InvoiceNumber>772607
+    <InvoiceDate>20180628</InvoiceDate>
+    <EANLocationNo/>
+    <BuyersOrderNo>617/2018 POLARIS ROLADA # 19A</BuyersOrderNo>
+    <DetailLines>
+        <DetailLine>
+            <SuppliersArticleNo>772607-1274</SuppliersArticleNo>
+            <SuppliersDescription>Mara 220 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>15.000</UnitQtyDelivered>
+            <UnitNetPrice>2.52</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>772607-1254</SuppliersArticleNo>
+            <SuppliersDescription>Mara 220 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>34.000</UnitQtyDelivered>
+            <UnitNetPrice>2.52</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-369</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>3.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-387</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>3.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>704997-000</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 20.000 m</SuppliersDescription>
+            <UnitQtyDelivered>2.000</UnitQtyDelivered>
+            <UnitNetPrice>6.47</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>749591-702</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>10.000</UnitQtyDelivered>
+            <UnitNetPrice>2.12</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>749591-000</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>10.000</UnitQtyDelivered>
+            <UnitNetPrice>2.12</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-8239</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>2.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-340</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>749591-40</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>2.12</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700207-2111</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 1.000 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>7.95</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700207-36</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 1.000 m</SuppliersDescription>
+            <UnitQtyDelivered>4.000</UnitQtyDelivered>
+            <UnitNetPrice>7.95</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>707694-3454</SuppliersArticleNo>
+            <SuppliersDescription>Mara 100 1.000 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>9.38</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>707694-263</SuppliersArticleNo>
+            <SuppliersDescription>Mara 100 1.000 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>9.38</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702170-36</SuppliersArticleNo>
+            <SuppliersDescription>Mara 70 700 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>10.44</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702170-263</SuppliersArticleNo>
+            <SuppliersDescription>Mara 70 700 m</SuppliersDescription>
+            <UnitQtyDelivered>2.000</UnitQtyDelivered>
+            <UnitNetPrice>10.44</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>724017-339</SuppliersArticleNo>
+            <SuppliersDescription>Elastic No.25 1000 m</SuppliersDescription>
+            <UnitQtyDelivered>3.000</UnitQtyDelivered>
+            <UnitNetPrice>9.06</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>717134-1274</SuppliersArticleNo>
+            <SuppliersDescription>Maraflex 30 2.000m</SuppliersDescription>
+            <UnitQtyDelivered>2.000</UnitQtyDelivered>
+            <UnitNetPrice>14.17</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>716936-2659</SuppliersArticleNo>
+            <SuppliersDescription>Maraflex 120 1.500 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.47</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>716936-624</SuppliersArticleNo>
+            <SuppliersDescription>Maraflex 120 1.500 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.47</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>716936-4401</SuppliersArticleNo>
+            <SuppliersDescription>Maraflex 120 1.500 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.47</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-2659</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-624</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>700185-322</SuppliersArticleNo>
+            <SuppliersDescription>Mara 120 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>6.000</UnitQtyDelivered>
+            <UnitNetPrice>3.89</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>730815-156</SuppliersArticleNo>
+            <SuppliersDescription>E 382 6.000 m</SuppliersDescription>
+            <UnitQtyDelivered>4.000</UnitQtyDelivered>
+            <UnitNetPrice>3.86</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>730815-800</SuppliersArticleNo>
+            <SuppliersDescription>E 382 6.000 m</SuppliersDescription>
+            <UnitQtyDelivered>4.000</UnitQtyDelivered>
+            <UnitNetPrice>3.86</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702170-1274</SuppliersArticleNo>
+            <SuppliersDescription>Mara 70 700 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>10.44</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702170-6415</SuppliersArticleNo>
+            <SuppliersDescription>Mara 70 700 m</SuppliersDescription>
+            <UnitQtyDelivered>0.800</UnitQtyDelivered>
+            <UnitNetPrice>10.44</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702170-491</SuppliersArticleNo>
+            <SuppliersDescription>Mara 70 700 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>10.44</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702404-1274</SuppliersArticleNo>
+            <SuppliersDescription>Mara 30 300 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>8.27</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702404-6415</SuppliersArticleNo>
+            <SuppliersDescription>Mara 30 300 m</SuppliersDescription>
+            <UnitQtyDelivered>0.400</UnitQtyDelivered>
+            <UnitNetPrice>8.27</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702404-491</SuppliersArticleNo>
+            <SuppliersDescription>Mara 30 300 m</SuppliersDescription>
+            <UnitQtyDelivered>1.000</UnitQtyDelivered>
+            <UnitNetPrice>8.27</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702404-1274</SuppliersArticleNo>
+            <SuppliersDescription>Mara 30 300 m</SuppliersDescription>
+            <UnitQtyDelivered>3.000</UnitQtyDelivered>
+            <UnitNetPrice>8.27</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>749591-339</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>2.000</UnitQtyDelivered>
+            <UnitNetPrice>2.12</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>749591-000</SuppliersArticleNo>
+            <SuppliersDescription>Skala 360 5.000 m</SuppliersDescription>
+            <UnitQtyDelivered>4.000</UnitQtyDelivered>
+            <UnitNetPrice>2.12</UnitNetPrice>
+        </DetailLine>
+        <DetailLine>
+            <SuppliersArticleNo>702404-2017</SuppliersArticleNo>
+            <SuppliersDescription>Mara 30 300 m</SuppliersDescription>
+            <UnitQtyDelivered>3.000</UnitQtyDelivered>
+            <UnitNetPrice>8.27</UnitNetPrice>
+        </DetailLine>
+    </DetailLines>
+</Invoice>
