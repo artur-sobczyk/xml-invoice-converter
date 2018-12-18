@@ -71,7 +71,11 @@ fun processXml(content: String): String {
         line.SuppliersArticleNo = elem.getElementsByTagName("SuppliersArticleNo").item(0).textContent;
         line.SuppliersDescription = elem.getElementsByTagName("SuppliersDescription").item(0).textContent;
         line.UnitQtyDelivered = elem.getElementsByTagName("UnitQtyDelivered").item(0).textContent;
-        line.UnitNetPrice = elem.getElementsByTagName("UnitNetPrice").item(0).textContent;
+        if (line.UnitQtyDelivered != "0") {
+            line.UnitNetPrice = elem.getElementsByTagName("UnitNetPrice").item(0).textContent;
+        } else {
+            line.UnitNetPrice = "0";
+        }
         sb.append(toCSVString(line) + "\n")
     }
 
