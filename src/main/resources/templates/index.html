@@ -17,6 +17,8 @@
 
     <a th:if="${session.file}" href="/file">Pobież ostatnio skonwertowany plik</a>
     <p th:if="${session.error}" th:text="${session.error}" style="color:red;">error </p>
+    <h1 th:if="${session.wrong}" th:text="'Zignorowane SuppliersArticleNo:'" style="color:blue;"></h1>
+    <p th:if="${session.wrong}" th:text="${session.wrong}" style="color:blue;">error </p>
 </div>
 
 </body>

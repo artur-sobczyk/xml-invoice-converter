@@ -19,20 +19,28 @@ import javax.servlet.http.HttpSession
 
 
 @Controller
-class FileUploadController {
+class FileProcessorController(
+        private val fileProcessorService: FileProcessorService
+) {
+
     companion object {
         const val FILE_ATTRIBUTE = "file"
         const val ERROR_ATTRIBUTE = "error"
+        const val WRONG_PRODUCTS_ATTRIBUTE = "wrong"
     }
 
-    val log = LoggerFactory.getLogger(FileUploadController::class.java)
+    val log = LoggerFactory.getLogger(FileProcessorController::class.java)
 
     @PostMapping("/upload")
     fun handleFileUpload(@RequestParam("file") file: MultipartFile,
                          session: HttpSession): String {
         session.removeAttribute(ERROR_ATTRIBUTE)
         try {
-            session.setAttribute(FILE_ATTRIBUTE, processXml(toString(file)))
+            val result = fileProcessorService.processFile(toString(file))
+            session.setAttribute(FILE_ATTRIBUTE, result.csv)
+            if (result.incorrectEntries?.isNotEmpty() == true) {
+                session.setAttribute(WRONG_PRODUCTS_ATTRIBUTE, result.incorrectEntries)
+            }
         } catch (e: Exception) {
             log.error("buuu... something wrong...", e)
             log.error(toString(file))
